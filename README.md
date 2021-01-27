@@ -5,7 +5,7 @@ The purpose of this project is to build an ANN model, trained to predict whether
 ## Dataset
 Download [this data](https://www.kaggle.com/wordsforthewise/lending-club) from Kaggle.
 There are 151 columns in this data. 
-[preprocessing script](https://github.com/taishi-nammoto/loan-classification/blob/main/preprocessing.ipynb) allows you to trim the majority of irrenevant features. 
+[preprocessing script](https://github.com/taishi-nammoto/loan-classification/blob/main/preprocessing.ipynb) allows you to trim the majority of irrelevant features. 
 
 ## Installation
 ```
